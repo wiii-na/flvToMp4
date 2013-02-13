@@ -10,4 +10,4 @@ You can specify the bitrate by arguments.
 ```
   flv_to_mp4.sh {bitrate}
 ```
-In the initial state, the bitrate is 800k.
+In the initial state, the bitrate is 400k.
